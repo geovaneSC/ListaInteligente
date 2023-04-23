@@ -1,0 +1,1827 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.topo img{
+    width: 300px;
+    height: 500px;
+    margin-top: -8%;
+    margin-left: 2%;
+}
+.topo h1{
+    margin-left: 0%;
+    margin-top: -15%;
+    
+}
+
+section#lista{
+    width: 620px;
+    height: 3800px;
+    background-color: rgb(158, 157, 157);
+    margin-top: -5%;
+    margin-left: 20%;
+    border-radius: 1%;
+    box-shadow: 10px 5px 5px rgb(8, 8, 8);
+    text-align: center;
+    color: rgb(0, 0, 0);
+
+
+
+
+
+}
+/* div data */
+div#DATA{
+    color: white;
+    background-color: brown;
+    display: flex;
+}
+
+div#DATA input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+   
+}
+
+div#DATA p{
+   width: 100px;
+   height: 50px;
+   margin-top: 10%;
+   margin-left: 5%;
+}
+
+
+/* div 1 */
+
+div#um{
+    display: flex;
+}
+
+div#um input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+   
+}
+
+div#um p{
+   width: 100px;
+   height: 50px;
+   margin-top: 10%;
+   margin-left: 5%;
+}
+
+
+/* div 2 */
+div#dois{
+    display: flex;
+}
+
+div#dois input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#dois p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+
+/* div 3 */
+div#tres{
+    display: flex;
+}
+
+div#tres input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#tres p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+/* div 4 */
+div#quatro{
+    display: flex;
+}
+
+div#quatro input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#quatro p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+/* div 5 */
+div#cinco{
+    display: flex;
+}
+
+div#cinco input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#cinco p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+/* div 6 */
+div#seis{
+    display: flex;
+}
+
+div#seis input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#seis p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+/* div 7 */
+div#sete{
+    display: flex;
+}
+
+div#sete input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#sete p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+/* div 8 */
+div#oito{
+    display: flex;
+}
+
+div#oito input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#oito p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+/* div 9 */
+div#nove{
+    display: flex;
+}
+
+div#nove input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#nove p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+/* div 10 */
+div#dez{
+    display: flex;
+}
+
+div#dez input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#dez p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+/* div 11 */
+div#p11{
+    display: flex;
+}
+
+div#p11 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p11 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+/* div 12 */
+div#p12{
+    display: flex;
+}
+
+div#p12 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p12 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+/* div 13 */
+div#p13{
+    display: flex;
+}
+
+div#p13 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p13 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+
+/* div 14 */
+div#p14{
+    display: flex;
+}
+
+div#p14 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p14 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+
+
+/* div 15 */
+div#p15{
+    display: flex;
+}
+
+div#p15 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p15 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+
+
+/* div 16 */
+div#p16{
+    display: flex;
+}
+
+div#p16 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p16 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+
+
+/* div 17 */
+div#p17{
+    display: flex;
+}
+
+div#p17 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p17 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+
+/* div 18 */
+div#p18{
+    display: flex;
+}
+
+div#p18 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p18 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+
+
+/* div 19 */
+div#p19{
+    display: flex;
+}
+
+div#p19 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p19 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+
+/* div 20 */
+div#p20{
+    display: flex;
+}
+
+div#p20 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p20 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+/* div 21 */
+div#p21{
+    display: flex;
+}
+
+div#p21 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p21 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+
+/* div 22 */
+div#p22{
+    display: flex;
+}
+
+div#p22 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p22 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+/* div 23 */
+div#p23{
+    display: flex;
+}
+
+div#p23 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p23 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+/* div 24 */
+div#p24{
+    display: flex;
+}
+
+div#p24 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p24 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+/* div 25 */
+div#p25{
+    display: flex;
+}
+
+div#p25 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p25 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+/* div 26 */
+div#p26{
+    display: flex;
+}
+
+div#p26 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p26 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+/* div 27 */
+div#p27{
+    display: flex;
+}
+
+div#p27 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p27 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+/* div 28 */
+div#p28{
+    display: flex;
+}
+
+div#p28 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p28 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+
+/* div 29 */
+div#p29{
+    display: flex;
+}
+
+div#p29 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p29 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+
+
+/* div 30 */
+div#p30{
+    display: flex;
+}
+
+div#p30 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p30 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+
+/* div 31 */
+div#p31{
+    display: flex;
+}
+
+div#p31 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p31 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+/* div 32 */
+div#p32{
+    display: flex;
+}
+
+div#p32 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p32 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+/* div 33 */
+div#p33{
+    display: flex;
+}
+
+div#p33 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p33 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+
+
+/* div 34 */
+div#p34{
+    display: flex;
+}
+
+div#p34 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p34 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+/* div 35 */
+div#p35{
+    display: flex;
+}
+
+div#p35 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p35 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+
+/* div 36 */
+div#p36{
+    display: flex;
+}
+
+div#p36 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p36 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+
+/* div 37 */
+div#p37{
+    display: flex;
+}
+
+div#p37 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p37 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+
+/* div 38 */
+div#p38{
+    display: flex;
+}
+
+div#p38 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p38 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+/* div 39 */
+div#p39{
+    display: flex;
+}
+
+div#p39 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p39 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+/* div 40 */
+div#p40{
+    display: flex;
+}
+
+div#p40 input{
+    width: 100px;
+    height: 30px;
+    font: normal 20pt arial;
+}
+
+div#p40 p{
+   width: 100px;
+   height: 50px;
+   margin-top: 5%;
+   margin-left: 5%;
+}
+
+
+
+div#botao{
+    display: flex;
+    margin-top: 5%;
+    margin-left: 5%;
+
+}
+
+div#botao input{
+    color: white;
+    font: normal 15pt arial;
+    background-color:brown ;
+    width: 200px;
+    height: 50px; 
+}
+
+div#res{
+    
+    margin-left: 5%;
+    font: normal 20pt arial;
+}
+.item{
+    display: flex;
+}
+.item p{
+    margin-left: 4%;
+    margin-top: 33%;
+    font: normal 15pt arial;
+    color: white; 
+}
+
+.item img{
+    width: 50px;
+    height: 50px;
+    margin-top: 32%;
+    margin-left: 4%;
+   z-index: 1;
+}
+.item button{
+    display: flex;
+    margin-top: 30%;
+    margin-left: -8.5%;
+
+}
+
+.item button {
+    color: white;
+    font: normal 15pt arial;
+    background-color:brown ;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%; 
+   
+   
+}
+.salvar{
+    display: flex;
+}
+.salvar label{
+    margin-top: -35%;
+    margin-left: 5%;
+    font: normal 15pt arial;
+    color: white; 
+}
+.salvar textarea{
+    border-radius: 5%;
+    margin-top: -33%;
+    margin-left: 45%;
+    color: black;
+    height: 50px;
+}
+.salvar button {
+    position: absolute;
+    color: white;
+    font: normal 15pt arial;
+    background-color:brown ;
+    width: 200px;
+    height: 50px; 
+    margin-top: -22%;
+    margin-left: 3%;
+}
+
+
+
+@media screen and (max-width: 450px){
+   
+    body{
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+    }
+    .topo img{
+        width: 300px;
+        height: 500px;
+        margin-top: -8%;
+        margin-left: 2%;
+    }
+    .topo h1{
+        margin-left: 0%;
+        margin-top: -45%;
+        
+    }
+    
+    section#lista{
+        width: 320px;
+        height: 3500px;
+        background-color: rgb(158, 157, 157);
+        margin-top: -10%;
+        margin-left: 5%;
+        border-radius: 1%;
+        box-shadow: 10px 5px 5px rgb(8, 8, 8);
+        text-align: center;
+        color: rgb(0, 0, 0);
+    }
+
+
+    .salvar{
+        display: flex;
+    }
+    .salvar label{
+        margin-top: -35%;
+        margin-left: 5%;
+        font: normal 15pt arial;
+        color: white; 
+    }
+    .salvar textarea{
+        border-radius: 5%;
+        margin-top: -105%;
+        margin-left: 8%;
+        color: black;
+        height: 150px;
+    }
+    .salvar button {
+        position: absolute;
+        color: white;
+        font: normal 15pt arial;
+        background-color:brown ;
+        width: 200px;
+        height: 50px; 
+        margin-top: -47%;
+        margin-left: 3%;
+    }
+
+
+    .item{
+        display: flex;
+    }
+    .item p{
+        margin-left: 1%;
+        margin-top: 95%;
+        font: normal 13pt arial;
+        color: white; 
+    }
+    
+    .item img{
+        width: 50px;
+        height: 50px;
+        margin-top: 93%;
+        margin-left: 4%;
+       z-index: 1;
+    }
+    .item button{
+        display: flex;
+        margin-top: 3.5%;
+        margin-left: -18%;
+    
+    }
+    
+    .item button {
+        color: white;
+        font: normal 12pt arial;
+        background-color:brown ;
+        width: 90px;
+        height: 90px;
+        border-radius: 50%; 
+        margin-top: 90%;
+       
+    }
+    /* div data */
+    div#DATA{
+        color: white;
+        background-color: brown;
+        display: flex;
+    }
+    
+    div#DATA input{
+        width: 50px;
+        height: 30px;
+        font: normal 11pt arial;
+       
+    }
+    
+    div#DATA p{
+       width: 50px;
+       height: 50px;
+       margin-top: 10%;
+       margin-left: 5%;
+    }
+    
+    
+    /* div 1 */
+    
+    div#um{
+        display: flex;
+    }
+    
+    div#um input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+       
+    }
+    
+    div#um p{
+      width: 60px;
+       height: 50px;
+       margin-top: 10%;
+       margin-left: 5%;
+    }
+    
+    
+    /* div 2 */
+    div#dois{
+        display: flex;
+    }
+    
+    div#dois input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#dois p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    
+    /* div 3 */
+    div#tres{
+        display: flex;
+    }
+    
+    div#tres input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#tres p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    /* div 4 */
+    div#quatro{
+        display: flex;
+    }
+    
+    div#quatro input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#quatro p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    /* div 5 */
+    div#cinco{
+        display: flex;
+    }
+    
+    div#cinco input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#cinco p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    /* div 6 */
+    div#seis{
+        display: flex;
+    }
+    
+    div#seis input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#seis p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    /* div 7 */
+    div#sete{
+        display: flex;
+    }
+    
+    div#sete input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#sete p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    /* div 8 */
+    div#oito{
+        display: flex;
+    }
+    
+    div#oito input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#oito p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    /* div 9 */
+    div#nove{
+        display: flex;
+    }
+    
+    div#nove input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#nove p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    /* div 10 */
+    div#dez{
+        display: flex;
+    }
+    
+    div#dez input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#dez p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    /* div 11 */
+    div#p11{
+        display: flex;
+    }
+    
+    div#p11 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p11 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    /* div 12 */
+    div#p12{
+        display: flex;
+    }
+    
+    div#p12 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p12 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    /* div 13 */
+    div#p13{
+        display: flex;
+    }
+    
+    div#p13 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p13 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    
+    /* div 14 */
+    div#p14{
+        display: flex;
+    }
+    
+    div#p14 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p14 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    
+    
+    /* div 15 */
+    div#p15{
+        display: flex;
+    }
+    
+    div#p15 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p15 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    
+    
+    /* div 16 */
+    div#p16{
+        display: flex;
+    }
+    
+    div#p16 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p16 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    
+    
+    /* div 17 */
+    div#p17{
+        display: flex;
+    }
+    
+    div#p17 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p17 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    
+    /* div 18 */
+    div#p18{
+        display: flex;
+    }
+    
+    div#p18 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p18 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    
+    
+    /* div 19 */
+    div#p19{
+        display: flex;
+    }
+    
+    div#p19 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p19 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    
+    /* div 20 */
+    div#p20{
+        display: flex;
+    }
+    
+    div#p20 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p20 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    /* div 21 */
+    div#p21{
+        display: flex;
+    }
+    
+    div#p21 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p21 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    
+    /* div 22 */
+    div#p22{
+        display: flex;
+    }
+    
+    div#p22 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p22 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    /* div 23 */
+    div#p23{
+        display: flex;
+    }
+    
+    div#p23 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p23 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    /* div 24 */
+    div#p24{
+        display: flex;
+    }
+    
+    div#p24 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p24 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    /* div 25 */
+    div#p25{
+        display: flex;
+    }
+    
+    div#p25 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p25 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    /* div 26 */
+    div#p26{
+        display: flex;
+    }
+    
+    div#p26 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p26 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    /* div 27 */
+    div#p27{
+        display: flex;
+    }
+    
+    div#p27 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p27 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    /* div 28 */
+    div#p28{
+        display: flex;
+    }
+    
+    div#p28 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p28 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    
+    /* div 29 */
+    div#p29{
+        display: flex;
+    }
+    
+    div#p29 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p29 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    
+    
+    /* div 30 */
+    div#p30{
+        display: flex;
+    }
+    
+    div#p30 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p30 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    
+    /* div 31 */
+    div#p31{
+        display: flex;
+    }
+    
+    div#p31 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p31 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    /* div 32 */
+    div#p32{
+        display: flex;
+    }
+    
+    div#p32 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p32 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    /* div 33 */
+    div#p33{
+        display: flex;
+    }
+    
+    div#p33 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p33 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    
+    
+    /* div 34 */
+    div#p34{
+        display: flex;
+    }
+    
+    div#p34 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p34 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    /* div 35 */
+    div#p35{
+        display: flex;
+    }
+    
+    div#p35 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p35 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    
+    /* div 36 */
+    div#p36{
+        display: flex;
+    }
+    
+    div#p36 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p36 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    
+    /* div 37 */
+    div#p37{
+        display: flex;
+    }
+    
+    div#p37 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p37 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    
+    /* div 38 */
+    div#p38{
+        display: flex;
+    }
+    
+    div#p38 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p38 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    /* div 39 */
+    div#p39{
+        display: flex;
+    }
+    
+    div#p39 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p39 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    /* div 40 */
+    div#p40{
+        display: flex;
+    }
+    
+    div#p40 input{
+       width: 60px;
+        height: 30px;
+        font: normal 11pt arial;
+    }
+    
+    div#p40 p{
+      width: 60px;
+       height: 50px;
+       margin-top: 5%;
+       margin-left: 5%;
+    }
+    
+    
+    
+    div#botao{
+        display: flex;
+        margin-top: 5%;
+        margin-left: 5%;
+        width: 201px;
+        height: 50px; 
+    
+    }
+    
+    div#botao  a input{
+        color: white;
+        font: normal 15pt arial;
+        background-color:brown ;
+    }
+    
+    div#res{
+        
+        margin-left: 5%;
+        font: normal 14pt arial;
+    }
+    
+    
+    
+}
